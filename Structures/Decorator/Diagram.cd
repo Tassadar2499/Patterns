@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Decorator.DecoratorClasses.AbstractDecorator&lt;T&gt;">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAIAQAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorClasses\AbstractDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.DecoratorClasses.GopnikDecorator">
+    <Position X="1.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>DecoratorClasses\GopnikDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.DecoratorClasses.PizhonGopnik">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorClasses\PizhonGopnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.DecoratorClasses.SportsmenGopnik">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DecoratorClasses\SportsmenGopnik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.StandartClasses.Gopnik">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>StandartClasses\Gopnik.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Decorator.IBydlo">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StandartClasses\IBydlo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
